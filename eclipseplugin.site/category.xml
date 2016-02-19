@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/eclipseplugin.feature_0.0.0.jar" id="eclipseplugin.feature" version="0.0.0">
+    <category name="eclipseplugin"/>
+   </feature>
+   <feature url="features/eclipseplugin.feature.source_0.0.0.jar" id="eclipseplugin.feature.source" version="0.0.0">
+    <category name="eclipseplugin Developer Resources"/>
+   </feature>
+</site>
